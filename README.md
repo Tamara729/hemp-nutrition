@@ -223,11 +223,11 @@ Treatments evaluated were control (unfertilized), low (100-17.5-50 ppm), medium 
 Varieties Carmagnola, Puma-3, and Han NE were hand sown on May 13th, 2020.
 Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 
-`FG_UnitsID_2020.csv`
-`FG_PlantHeight_2020.csv`
-`FG_Flowering_2020.csv`
-`FG_Harvest_2020.csv`
-`FG_HarvestIndex_2020.csv`
-`FG_NutrientAnalysis_2020.csv`
-`FG_CannabinoidSample_2020.csv`
-`FG_CannabinoidProfile_2020.csv`
+-`FG_UnitsID_2020.csv`
+-`FG_PlantHeight_2020.csv`
+-`FG_Flowering_2020.csv`
+-`FG_Harvest_2020.csv`
+-`FG_HarvestIndex_2020.csv`
+-`FG_NutrientAnalysis_2020.csv`
+-`FG_CannabinoidSample_2020.csv`
+-`FG_CannabinoidProfile_2020.csv`
