@@ -6,35 +6,28 @@ Variety Maverick hand-sown on May 6th, 2021.
 Variety Wife transplanted on May 7th, 2021.
 Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 
-`EO_UnitsID_2020.csv`: Description of experimental units of the first N study on essential oil varieties.
+`EO_UnitsID_2021.csv`: Description of the experimental units in the essential oil N study.
 - `Unit`: Number identification of experimental units.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 
-`EO_UnitsID_2020_FI.csv`: Description of experimental units of the first N study on essential oil varieties.
+`EO_PlantHeight_2021.csv`: Plant height of the essential oil varieties in the N study.
 - `Unit`: Number identification of experimental units.
-- `Variety`: Varieties evaluated in the trial.
-- `Treatment`: Treatments evaluated in the trial.
-- `PlantingDate`: Date of planting of each unit/variety.
-- Notes: Same data as in `EO_UnitsID_2020.csv` and used to determine anthesis over time.
-
-`EO_PlantHeight_2020.csv`: Plant height of first N study on essential oil varieties.
-- `Unit`: Number identification of experimental units.
-- `Rep`: Plants within each experimental units.
+- `Rep`: Plants within each experimental units. 
 - `Height_cm`: Stem length in centimeters from plant base to apex.
 
-`EO_Flowering_2020.csv`: Flowering behavior data of first N study on essential oil varieties.
+`EO_Flowering_2021.csv`: Flowering behavior data of the essential oil varieties in the N study.
 - `Unit`: Number identification of experimental units.
-- `Rep`: Plants within each experimental units.
+- `Rep`: Replications of treatments (4).
 - `Induc_perc`: Percentage of flowering induction.
-- `FemaleOpen_perc`: Percent of female plants with over half of flowers opened.
+- `FemaleOpen_perc`: Percent of female plants with over half of the flowers opened.
 
-`EO_Harvest_2020.csv`: Harvest data of first N study on essential oil varieties.
+`EO_Harvest_2021.csv`: Harvest data of first N study on essential oil varieties.
 - `Unit`: Number identification of experimental units.
 - `Rep`: Plants within each experimental units.
 - `FreshWeight_g`: Fresh aboveground biomass in grams.
 
-`EO_HarvestIndex_2020.csv`: Data to calculate conversion factor for extrapolating total dry weights of the first N study on essential oil varieties.
+`EO_HarvestIndex_2021.csv`: Data to calculate conversion factor for extrapolating total dry weights of the first N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of treatments (4).
