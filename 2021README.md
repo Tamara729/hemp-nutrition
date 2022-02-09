@@ -56,15 +56,6 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `NO3_(mg/kg)`: Milligrams per a kilogram of Nitrate.
 - `NH3N_(mg/kg)`: Milligrams per a kilogram of Ammoniacal nitrogen.
 
-`EO_CannabinoidSample_2020.csv`: Data collected of samples submitted for cannabinoid quantification of the second N study on essential oil varieties.
-- `Variety`: Varieties evaluated in the trial.
-- `Treatment`: Treatments evaluated in the trial.
-- `Rep`: Replications of treatments (4).
-- `FlowerWeight_g`: Weight (in grams) of fresh floral material from three sampled 15-cm stem from the main stem (one per plant).
-- `TotalFreshWeight_g`: Weight (in grams) of three fresh sampled 15-cm stem from the main stem (one per plant).
-- `DryFlowerWeight_g`: Weight  (in grams) of dry floral material from three sampled 15-cm stem from the main stem (one per plant).
-- `TotalDryWeight_g`: Weight  (in grams) of three dry sampled 15-cm stem from the main stem (one per plant).
-
 `EO_CannabinoidProfile_2021.csv`: Cannabinoid quantification data from samples collected at harvest (?) of the second N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
@@ -92,11 +83,9 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 Varieties X-59, SS-Beta, and Abound were hand sown on May 12th, 2021.
 Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 
-- `FG_UnitsID_2020.csv`
-- `FG_PlantHeight_2020.csv`
-- `FG_Flowering_2020.csv`
-- `FG_Harvest_2020.csv`
-- `FG_HarvestIndex_2020.csv`
-- `FG_NutrientAnalysis_2020.csv`
-- `FG_CannabinoidSample_2020.csv`
-- `FG_CannabinoidProfile_2020.csv`
+- `FG_UnitsID_2021.csv`
+- `FG_PlantHeight_2021.csv`
+- `FG_Flowering_2021.csv`
+- `FG_Harvest_2021.csv`
+- `FG_NutrientAnalysis_2021.csv`
+- `FG_CannabinoidProfile_2021.csv`
