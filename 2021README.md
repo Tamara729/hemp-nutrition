@@ -74,7 +74,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `CBCA`: Percentage of Cannabichromenic acid. 
 - `CBD`: Percentage of Cannabidiol.
 - `CBDA`: Percentage of Cannabidiolic acid.
-` `CBDV`: Percentage of Cannabidivarin.
+- `CBDV`: Percentage of Cannabidivarin.
 - `CBG`: Percentage of Cannabigerol.
 - `CBGA`: Percentage of Cannabigerolic acid.
 - `CBL`: Percentage of Cannabicyclol.
