@@ -32,8 +32,8 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of sampling per treatment.
 - `TKN_(mg/kg)`: Milligrams per a kilogram of Total Kjeldhal Nitrogen.
-- `K_(mg/kg): Milligrams per a kilogram of Potassium.
-- 'P_(mg/kg): Milligrams per a kilogram of Phosphorous. 
+- `K_(mg/kg)': Milligrams per a kilogram of Potassium.
+- 'P_(mg/kg)': Milligrams per a kilogram of Phosphorous. 
 
 `EO_SoilNutrientAnalysisBefore_2021.csv`: Soil nutrient analyses result before harvest (Being more specific?) of the second N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
@@ -43,7 +43,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `TKN_(mg/kg)`: Milligrams per a kilogram of Total Kjeldhal Nitrogen.
 - `M3P_(mg/kg)`: Milligrams per a kilogram of Mehlich-3 extractable soil phosphorous.
 - `NO3_(mg/kg)`: Milligrams per a kilogram of Nitrate.
-- 'NH3N_(mg/kg): Milligrams per a kilogram of Ammoniacal nitrogen.
+- 'NH3N_(mg/kg)': Milligrams per a kilogram of Ammoniacal nitrogen.
 
 
 `EO_SoilNutrientAnalysisAfter_2021`: Soil nutrient analyses result after harvest of the second N study on essential oil varieties.
@@ -55,7 +55,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `TKN_(mg/kg)`: Milligrams per a kilogram of Total Kjeldhal Nitrogen.
 - `M3P_(mg/kg)`: Milligrams per a kilogram of Mehlich-3 extractable soil phosphorous.
 - `NO3_(mg/kg)`: Milligrams per a kilogram of Nitrate.
-- 'NH3N_(mg/kg): Milligrams per a kilogram of Ammoniacal nitrogen.
+- 'NH3N_(mg/kg)': Milligrams per a kilogram of Ammoniacal nitrogen.
 
 `EO_CannabinoidSample_2020.csv`: Data collected of samples submitted for cannabinoid quantification of the second N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
