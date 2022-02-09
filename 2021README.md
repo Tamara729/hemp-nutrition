@@ -27,13 +27,13 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `FreshWeight_g`: Fresh aboveground biomass in grams.
 
 `EO_NutrientAnalysis_2021.csv`: Foliar nutrient analyses results at harvest (?) of the second (?) N study on essential oil varieties.
-- 'Unit': Number identification of experimental units.
+- `Unit`: Number identification of experimental units.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of sampling per treatment.
 - `TKN_(mg/kg)`: Milligrams per a kilogram of Total Kjeldhal Nitrogen.
-- `K_(mg/kg)': Milligrams per a kilogram of Potassium.
-- 'P_(mg/kg)': Milligrams per a kilogram of Phosphorous. 
+- `K_(mg/kg)`: Milligrams per a kilogram of Potassium.
+- `P_(mg/kg)`: Milligrams per a kilogram of Phosphorous. 
 
 `EO_SoilNutrientAnalysisBefore_2021.csv`: Soil nutrient analyses result before harvest (Being more specific?) of the second N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
@@ -70,7 +70,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of treatments (4).
-- 'Unit': Number identification of experimental units.
+- `Unit`: Number identification of experimental units.
 - `CBC`: Percentage of Cannabichromene.
 - `CBCA`: Percentage of Cannabichromenic acid. 
 - `CBD`: Percentage of Cannabidiol.
