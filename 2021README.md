@@ -16,15 +16,15 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Rep`: Plants within each experimental units. 
 - `Height_cm`: Stem length in centimeters from plant base to apex.
 
--`EO_Emergence_2021.csv`: Plant emergence of the essential oil varieties in the 2021 N study.
--`Unit`: Number identification of experimental units.
--`Rep`:  Replications of treatments (4).
--`Emerg_numb`: Number of plants that emerged from the unit.
+`EO_Emergence_2021.csv`: Plant emergence of the essential oil varieties in the 2021 N study.
+- `Unit`: Number identification of experimental units.
+- `Rep`:  Replications of treatments (4).
+- `Emerg_numb`: Number of plants that emerged from the unit.
 
--`EO_StandCount_2021.csv`: Plant stand of the essential oil varieties in the 2021 N study.
--`Unit`: Number identification of experimental units.
--`Rep`:  Replications of treatments (4).
--`StandCount_numb`: Number of plants standing in the measurement zone.
+`EO_StandCount_2021.csv`: Plant stand of the essential oil varieties in the 2021 N study.
+- `Unit`: Number identification of experimental units.
+- `Rep`:  Replications of treatments (4).
+- `StandCount_numb`: Number of plants standing in the measurement zone.
 
 `EO_Flowering_2021.csv`: Flowering behavior data of the essential oil varieties in the 2021 N study.
 - `Unit`: Number identification of experimental units.
