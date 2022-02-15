@@ -11,9 +11,14 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 
-`EO_PlantHeight_2021.csv`: Plant height of the essential oil varieties in the 2021 N study.
+`EO_PlantHeight_Wife_2021.csv`: Plant height of the 2021 N study on essential oil variety Wife. 
 - `Unit`: Number identification of experimental units.
-- `Rep`: Plants within each experimental units. 
+- `Rep`: Number of plants in each experimental unit. 
+- `Height_cm`: Stem length in centimeters from plant base to apex.
+
+`EO_PlantHeight_Maverick_2021.csv`: Plant height of the 2021 N study on essential oil variety Maverick. 
+- `Unit`: Number identification of experimental units.
+- `Rep`: Number of plants in each measurement zone (1.83 m^2).
 - `Height_cm`: Stem length in centimeters from plant base to apex.
 
 `EO_Emergence_2021.csv`: Plant emergence of the essential oil varieties in the 2021 N study.
@@ -21,21 +26,26 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Rep`:  Replications of treatments (4).
 - `Emerg_numb`: Number of plants that emerged from the unit.
 
-`EO_StandCount_2021.csv`: Plant stand of the essential oil varieties in the 2021 N study.
+`EO_StandCount_Wife_2021.csv`: Plant stand of the 2021 N study on essential oil variety Wife.
 - `Unit`: Number identification of experimental units.
 - `Rep`:  Replications of treatments (4).
-- `StandCount_numb`: Number of plants standing in the measurement zone.
+- `StandCount_numb`: Number of living plants in the experimental unit.
+
+`EO_StandCount_Maverick_2021.csv`: Plant stand of the 2021 N study on essential oil variety Maverick. 
+- `Unit`: Number identification of experimental units.
+- `Rep`:  Replications of treatments (4).
+- `StandCount_numb`:  Number of living plants in the measurement zone (1.83 m^2). 
 
 `EO_Flowering_2021.csv`: Flowering behavior data of the essential oil varieties in the 2021 N study.
 - `Unit`: Number identification of experimental units.
-- `Induc_perc`: Percentage of flowering induction.
-- `FemaleOpen_perc`: Percent of female plants with over half of their flowers opened.
+- `Induc_perc`: Percentage of flowering induction from each experimental unit.
+- `FemaleOpen_perc`: Percent of female plants with over half of their flowers opened from each experimental unit.
 
 `EO_Harvest_Wife_2021.csv`: Harvest data of the 2021 N study on essential oil variety Wife. 
 - `Variety`: Variety evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Unit`: Number identification of experimental units.
-- `Rep`: Plants within each experimental units.
+- `Rep`: Plants within each experimental unit.
 - `TotalFreshWeight_g`: Fresh aboveground biomass in grams from each experimental unit.
 - `RootFreshWeight_g`: Fresh belowground biomass in grams from each experimental unit.
 - `TotalDryWeight_g`: Weight of sampled dry aboveground biomass in grams from each experimental unit.
@@ -49,13 +59,13 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Treatment`: Treatments evaluated in the trial.
 - `Unit`: Number identification of experimental units.
 - `Rep`: Replications of treatments (4).
-- `TotalFreshWeight_g`: Fresh aboveground biomass in grams from each experimental unit.
-- `RootFreshWeight_g`: Fresh belowground biomass in grams from each experimental unit.
-- `TotalDryWeight_g`: Weight of sampled dry aboveground biomass in grams from each experimental unit.
-- `RootDry Weight_g`: Weight of sampled dry belowground biomass in grams from each experimental unit.
-- `StemDryWeight_g`: Weight of sampled dry stem biomass in grams from each experimental unit.
-- `LeavesDryWeight_g`: Weight of sampled dry fan leave biomass in grams from each experimental unit.
-- `FlowerDryWeight_g`: Weight of sampled dry floral biomass plus inflorescent leaves in grams from each experimental unit. 
+- `TotalFreshWeight_g`: Fresh aboveground biomass in grams from each measurement zone (1.83 m^2).
+- `RootFreshWeight_g`: Fresh belowground biomass in grams from each measurement zone (1.83 m^2).
+- `TotalDryWeight_g`: Weight of sampled dry aboveground biomass in grams from each measurement zone (1.83 m^2).
+- `RootDry Weight_g`: Weight of sampled dry belowground biomass in grams from each measurement zone (1.83 m^2).
+- `StemDryWeight_g`: Weight of sampled dry stem biomass in grams from each measurement zone (1.83 m^2).
+- `LeavesDryWeight_g`: Weight of sampled dry fan leave biomass in grams from each measurement zone (1.83 m^2).
+- `FlowerDryWeight_g`: Weight of sampled dry floral biomass plus inflorescent leaves in grams from each measurement zone (1.83 m^2). 
 
 `EO_NutrientAnalysis_2021.csv`: Foliar nutrient analyses results at mid-season and harvest in the 2021 N study on essential oil varieties.
 - `Unit`: Number identification of experimental units.
@@ -125,39 +135,39 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 
 `FG_PlantHeight_2021.csv`: Plant height of the grain and fiber varieties in the 2021 N study.
 - `Unit`: Number identification of experimental units.
-- `Rep`: Plants within each experimental units. 
+- `Rep`: Number of plants in each measurement zone (1.83 m^2).  
 - `Height_cm`: Stem length in centimeters from plant base to apex.
 
 -`FG_Emergence_2021.csv`: Plant emergence of the grain and fiber varieties in the 2021 N study.
 -`Unit`: Number identification of experimental units.
 -`Rep`:  Replications of treatments (4).
--`Emerg_numb`: Number of plants that emerged from the unit.
+-`Emerg_numb`: Number of plants that emerged from each experimental unit
 
 -`FG_StandCount_2021.csv`: Plant stand of the grain and fiber varieties in the 2021 N study.
 -`Unit`: Number identification of experimental units.
 -`Rep`:  Replications of treatments (4).
--`StandCount_numb`: Number of plants standing in the measurement zone.
+-`StandCount_numb`: Number of living plants in the measurement zone (1.83 m^2). 
 
 `FG_Flowering_2021.csv`: Flowering behavior data of the grain and fiber varieties in the 2021 N study.
 - `Unit`: Number identification of experimental units.
-- `Induc_perc`: Percentage of flowering induction.
-- `MaleOpen_perc`: Percent of male plants with over half of their flowers opened.
-- `FemaleOpen_perc`: Percent of female plants with over half of their flowers opened.
-- `MonoOpen_perc`: Percent of monoecious plants with over half of their flowers opened.
-- `SeedHard_perc`: Percent of plants with over half of their seeds hardened.
+- `Induc_perc`: Percentage of flowering induction from each experimental unit.
+- `MaleOpen_perc`: Percent of male plants with over half of their flowers opened from each experimental unit.
+- `FemaleOpen_perc`: Percent of female plants with over half of their flowers opened from each experimental unit.
+- `MonoOpen_perc`: Percent of monoecious plants with over half of their flowers opened from each experimental unit.
+- `SeedHard_perc`: Percent of plants with over half of their seeds hardened from each experimental unit.
 
 `FG_Harvest_2021.csv`: Harvest data of the 2021 N study on grain and fiber varieties.  
 - `Variety`: Variety evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Unit`: Number identification of experimental units.
 - `Rep`: Replications of treatments (4).
-- `TotalFreshWeight_g`: Fresh aboveground biomass in grams from each experimental unit.
-- `TotalDryWeight_g`: Weight of sampled dry aboveground biomass in grams from each experimental unit.
-- `RootFreshWeight_g`: Fresh belowground biomass in grams from each experimental unit.
-- `RootDryWeight_g`: Weight of sampled dry belowground biomass in grams from each experimental unit.
-- `StemDryWeight_g`: Weight of sampled dry stem biomass in grams from each experimental unit.
-- `LeavesDryWeight_g`: Weight of sampled dry leave and flower biomass in grams from each experimental unit.
-- `SeedDryWeight_g`: Weight of sampled dry floral biomass plus inflorescent leaves in grams from each experimental unit. 
+- `TotalFreshWeight_g`: Fresh aboveground biomass in grams from each measurement zone (1.83 m^2).
+- `TotalDryWeight_g`: Weight of sampled dry aboveground biomass in grams from each measurement zone (1.83 m^2).
+- `RootFreshWeight_g`: Fresh belowground biomass in grams from each measurement zone (1.83 m^2).
+- `RootDryWeight_g`: Weight of sampled dry belowground biomass in grams from each measurement zone (1.83 m^2).
+- `StemDryWeight_g`: Weight of sampled dry stem biomass in grams from each measurement zone (1.83 m^2).
+- `LeavesDryWeight_g`: Weight of sampled dry leave and flower biomass in grams from each measurement zone (1.83 m^2).
+- `SeedDryWeight_g`: Weight of sampled dry floral biomass plus inflorescent leaves in grams from each measurement zone (1.83 m^2). 
 
 `FG_NutrientAnalysis_2021.csv`: Foliar nutrient analyses results at mid-season and harvest in the 2021 N study on grain and fiber varieties.
 - `Unit`: Number identification of experimental units.
