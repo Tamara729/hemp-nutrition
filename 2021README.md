@@ -139,14 +139,14 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Height_cm`: Stem length in centimeters from plant base to apex.
 
 -`FG_Emergence_2021.csv`: Plant emergence of the grain and fiber varieties in the 2021 N study.
--`Unit`: Number identification of experimental units.
--`Rep`:  Replications of treatments (4).
--`Emerg_numb`: Number of plants that emerged from each experimental unit
+- `Unit`: Number identification of experimental units.
+- `Rep`:  Replications of treatments (4).
+- `Emerg_numb`: Number of plants that emerged from each experimental unit
 
 -`FG_StandCount_2021.csv`: Plant stand of the grain and fiber varieties in the 2021 N study.
--`Unit`: Number identification of experimental units.
--`Rep`:  Replications of treatments (4).
--`StandCount_numb`: Number of living plants in the measurement zone (1.83 m^2). 
+- `Unit`: Number identification of experimental units.
+- `Rep`:  Replications of treatments (4).
+- `StandCount_numb`: Number of living plants in the measurement zone (1.83 m^2). 
 
 `FG_Flowering_2021.csv`: Flowering behavior data of the grain and fiber varieties in the 2021 N study.
 - `Unit`: Number identification of experimental units.
@@ -167,7 +167,21 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `RootDryWeight_g`: Weight of sampled dry belowground biomass in grams from each measurement zone (1.83 m^2).
 - `StemDryWeight_g`: Weight of sampled dry stem biomass in grams from each measurement zone (1.83 m^2).
 - `LeavesDryWeight_g`: Weight of sampled dry leave and flower biomass in grams from each measurement zone (1.83 m^2).
-- `SeedDryWeight_g`: Weight of sampled dry floral biomass plus inflorescent leaves in grams from each measurement zone (1.83 m^2). 
+- `SeedDryWeight_g`: Weight of sampled dry floral biomass plus inflorescent leaves in grams from each measurement zone (1.83 m^2).
+
+`FG_Harvest_Abound_2021.csv`: Harvest data of the 2021 N study on grain and fiber variety Abound.  
+- `Variety`: Variety evaluated in the trial.
+- `Treatment`: Treatments evaluated in the trial.
+- `Unit`: Number identification of experimental units.
+- `Rep`: Replications of treatments (4).
+- `TotalFreshWeight_g`: Fresh total biomass in grams from each measurement zone (1.83 m^2).
+- `TotalDryWeight_g`: Weight of total dry biomass in grams from each measurement zone (1.83 m^2).
+- `RootFreshWeight_g`: Fresh belowground biomass in grams from each measurement zone (1.83 m^2).
+- `RootDryWeight_g`: Weight of sampled dry belowground biomass in grams from each measurement zone (1.83 m^2).
+- `StemDryWeight_g`: Weight of sampled dry stem biomass in grams from each measurement zone (1.83 m^2).
+- `LeavesDryWeight_g`: Weight of sampled dry leave and flower biomass in grams from each measurement zone (1.83 m^2).
+- `SeedDryWeight_g`: Weight of sampled dry floral biomass plus inflorescent leaves in grams from each measurement zone (1.83 m^2).
+- Notes: Same data as in `FG_Harvest_2021.csv` but TotalFreshWeight and TotalDryWeight represent total biomass instead of aboveground biomass.
 
 `FG_NutrientAnalysis_2021.csv`: Foliar nutrient analyses results at mid-season and harvest in the 2021 N study on grain and fiber varieties.
 - `Unit`: Number identification of experimental units.
