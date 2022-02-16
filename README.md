@@ -6,35 +6,35 @@ Varieties Maverick and NBS were hand-sown on May 22nd, 2020.
 Variety Wife was transplanted on May 26th, 2020.
 Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 
-`EO_UnitsID_2020.csv`: Description of experimental units of the first N study on essential oil varieties.
+`EO_UnitsID_2020.csv`: Description of experimental units of the 2020 N study on essential oil varieties.
 - `Unit`: Number identification of experimental units.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 
-`EO_UnitsID_2020_FI.csv`: Description of experimental units of the first N study on essential oil varieties.
+`EO_UnitsID_2020_FI.csv`: Description of experimental units of the 2020 N study on essential oil varieties.
 - `Unit`: Number identification of experimental units.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `PlantingDate`: Date of planting of each unit/variety.
 - Notes: Same data as in `EO_UnitsID_2020.csv` and used to determine anthesis over time.
 
-`EO_PlantHeight_2020.csv`: Plant height of first N study on essential oil varieties.
+`EO_PlantHeight_2020.csv`: Plant height of 2020 N study on essential oil varieties.
 - `Unit`: Number identification of experimental units.
 - `Rep`: Plants within each experimental units.
 - `Height_cm`: Stem length in centimeters from plant base to apex.
 
-`EO_Flowering_2020.csv`: Flowering behavior data of first N study on essential oil varieties.
+`EO_Flowering_2020.csv`: Flowering behavior data of 2020 N study on essential oil varieties.
 - `Unit`: Number identification of experimental units.
 - `Rep`: Plants within each experimental units.
 - `Induc_perc`: Percentage of flowering induction.
 - `FemaleOpen_perc`: Percent of female plants with over half of flowers opened.
 
-`EO_Harvest_2020.csv`: Harvest data of first N study on essential oil varieties.
+`EO_Harvest_2020.csv`: Harvest data of 2020 N study on essential oil varieties.
 - `Unit`: Number identification of experimental units.
 - `Rep`: Plants within each experimental units.
 - `FreshWeight_g`: Fresh aboveground biomass in grams.
 
-`EO_HarvestIndex_2020.csv`: Data to calculate conversion factor for extrapolating total dry weights of the first N study on essential oil varieties.
+`EO_HarvestIndex_2020.csv`: Data to calculate conversion factor for extrapolating total dry weights of the 2020 N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of treatments (4).
@@ -44,7 +44,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `StemLeavesDryWeight_g`: Weight of sampled dry stems & leaves biomass in grams from each experimental unit.
 - `FlowerDryWeight_g`: Weight of sampled dry floral biomass in grams from each experimental unit.
 
-`EO_HarvestIndex_C_2020.csv`: Data to calculate conversion factor for extraolating total dry weights of the first N study on essential oil varieties.
+`EO_HarvestIndex_C_2020.csv`: Data to calculate conversion factor for extraolating total dry weights of the 2020 N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of treatments (4).
@@ -55,7 +55,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `FlowerDryWeight_g`: Weight of sampled dry floral biomass in grams from each experimental unit.
 - Notes: Same data as in `EO_HarvestIndex_2020.csv` but used for creating the stacked bar graph.
 
-`EO_NutrientAnalysis_2020.csv`: Foliar nutrient analyses results at harvest of the first N study on essential oil varieties.
+`EO_NutrientAnalysis_2020.csv`: Foliar nutrient analyses results at harvest of the 2020 N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of sampling per treatment.
@@ -67,7 +67,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `Mn_ppm`: Parts per million of Manganese.
 - `Zn_ppm`: Parts per million of Zinc.
 
-`EO_SoilNutrientAnalysisAfter_2020`: Soil nutrient analyses result after harvest of the first N study on essential oil varieties.
+`EO_SoilNutrientAnalysisAfter_2020`: Soil nutrient analyses result after harvest of the 2020 N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `MWHC_perc`: Percentage of Maximum Water Holding Capacity.
@@ -77,7 +77,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `NO3_ppm`: Parts per million of Nitrate.
 - `NH4N_ppm`: Part per million of Ammonium nitrate
 
-`EO_CannabinoidSample_2020.csv`: Data collected of samples submitted for cannabinoid quantification of the first N study on essential oil varieties.
+`EO_CannabinoidSample_2020.csv`: Data collected of samples submitted for cannabinoid quantification of the 2020 N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of treatments (4).
@@ -86,7 +86,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `DryFlowerWeight_g`: Weight  (in grams) of dry floral material from three sampled 15-cm stem from the main stem (one per plant).
 - `TotalDryWeight_g`: Weight  (in grams) of three dry sampled 15-cm stem from the main stem (one per plant).
 
-`EO_CannabinoidProfile_2020.csv`: Cannabinoid quantification data from samples collected at harvest of the first N study on essential oil varieties.
+`EO_CannabinoidProfile_2020.csv`: Cannabinoid quantification data from samples collected at harvest of the 2020 N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of treatments (4).
@@ -108,7 +108,7 @@ Treatments evaluated were 0, 50, 100, 150, 200, and 250 lbs of N per acre.
 - `TotalPotentialCBC`: Percentage of Cannabichromene plus Cannabichromenic acid.
 - `TotalPotentialCBG`: Percentage of Cannabigerol plus Cannabigerolic acid.
 
-`EO_CannabinoidProfile2_2020.csv`: Cannabinoid quantification data from samples collected at harvest of the first N study on essential oil varieties.
+`EO_CannabinoidProfile2_2020.csv`: Cannabinoid quantification data from samples collected at harvest of the 2020 N study on essential oil varieties.
 - `Variety`: Varieties evaluated in the trial.
 - `Treatment`: Treatments evaluated in the trial.
 - `Rep`: Replications of treatments (4).
